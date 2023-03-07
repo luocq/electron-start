@@ -1,0 +1,10 @@
+{
+  "name": "ElD",
+  "version": "1.0.0",
+  "description": "LCQ'DEMO",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.2"
+  }
+}
